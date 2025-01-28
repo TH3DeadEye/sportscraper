@@ -40,6 +40,18 @@ To get started with SportsScraper, follow these steps:
 ```
 THIS WILL BE UPDATED 
 ```
+## API Usage
+
+- **Allowed Sports**: Fetches the list of allowed sports from `https://streamed.su/api/sports`.
+- **Matches**: Fetches matches for a specific sport using a custom helper function.
+
+## Roadmap
+
+- [ ] Add user authentication.
+- [ ] Improve UI design and accessibility.
+- [ ] Add more robust error handling.
+- [ ] Deploy the app to a production environment.
+
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
